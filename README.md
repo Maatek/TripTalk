@@ -1,5 +1,6 @@
 "TripTalk"
-Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
+Je aplikacija koja će promijeniti način na koji ljubitelji putovanja dijele svoja iskustva i povezuju se diljem svijeta.
+Trip talk pruža korisnicima da se međusobno upoznaju, dijele inspiraciju i pružaju korisne savjete. Korisnici mogu stvarati vlastite profile, dijeliti svoje putne priče, postavljati pitanja i komentirati postove drugih korisnika. Cilj moje aplikacije je stvoriti živahnu i povezanu putničku zajednicu koja omogućava korisnicima da dijele svoja putna iskustva, dobivaju inspiraciju, pružaju savjete i povezuju se s drugim putnicima diljem svijeta.
 
 Autor
 Matija Kelemenić (makelemenic@unipu.hr)
